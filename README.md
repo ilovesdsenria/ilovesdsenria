@@ -1,4 +1,4 @@
-<img src="https://your-image-link.com/banner.png" width="100%">
+<img src="https://avatars.mds.yandex.net/i?id=7ffde0de039f899f339fa3abf7bbe78d_l-10700840-images-thumbs&n=13" width="100%">
 
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Developer, cybersecurity enthusiast, and AI explorer</h3>
